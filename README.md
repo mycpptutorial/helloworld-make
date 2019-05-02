@@ -8,9 +8,9 @@ Use *make* command to build the application. It uses Makefile compile the source
 
 ```
 $ make
-g++ -c -o hello.o hello.cpp -I
-g++ -c -o main.o main.cpp -I
-g++ -o greet hello.o main.o -I
+g++ -c -o hello.o hello.cpp
+g++ -c -o main.o main.cpp
+g++ -o greet hello.o main.o
 ```
 ## Running the app
 
@@ -18,4 +18,5 @@ Run *greet* command like this:
 
 ```
 $ ./greet
+Hello World!
 ```
