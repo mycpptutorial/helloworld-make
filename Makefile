@@ -1,5 +1,5 @@
 CC=g++
-CFLAGS=-I.
+CFLAGS=-I
 DEPS = hello.h
 OBJ = hello.o main.o
 
