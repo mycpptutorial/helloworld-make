@@ -2,7 +2,7 @@
 
 This sample is showing you how you can use make and Makefile to compile your c++ application.
 
-## Envorinment Setup
+## Environment Setup
 
 Make sure **g++** installed. If not go to http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/ for more help.
 
