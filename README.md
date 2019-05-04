@@ -4,17 +4,17 @@ This sample is showing you how you can use make and Makefile to compile your c++
 
 ## Envorinment Setup
 
-Make sure *g++* installed. If not go to http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/ for more help.
+Make sure **g++** installed. If not go to http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/ for more help.
 
-You need to install make to build your c++ source codes using make command.
+You need to install **make** to build your c++ source codes using **make** command.
 
-Run following command to see if *make* is installed:
+Run following command to see if **make** is installed:
 
 ```
 $ make
 zsh: command not found: make
 ```
-If you face *command not found: make* that means it is not there.
+If you face **command not found: make** that means it is not there.
 
 ### Installing make
 
