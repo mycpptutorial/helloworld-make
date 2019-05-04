@@ -4,7 +4,7 @@ This sample is showing you how you can use make and Makefile to compile your c++
 
 ## Environment Setup
 
-Make sure **g++** installed. If not go to http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/ for more help.
+Make sure **g++** installed. If not go to [Build and run your first application with g++](http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/) for more help.
 
 You need to install **make** to build your c++ source codes using **make** command.
 
@@ -47,3 +47,5 @@ Run *greet* command like this:
 $ ./greet
 Hello World!
 ```
+
+Visit [Build and run your first application with g++](http://kabiliravi.com/index.php/software/programming/mycpptutorial/environment-setup/build-and-run-your-first-application-with-gcc/) to learn more about this sample.
